@@ -12,6 +12,7 @@
   "license": "ISC",
   "repository": "https://github.com/frontfabi/gostack-7.git",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "sequelize": "^5.21.3"
   },
